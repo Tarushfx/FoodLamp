@@ -1,8 +1,8 @@
 [submodule "FoodLamp-Backend"]
-	path = PTask-API
+	path = foodlamp-backend
 	url = git@github.com:Tarushfx/foodlamp-backend.git
 	branch = main
 [submodule "FoodLamp-Frontend"]
-	path = PTask-UI
+	path = foodlamp-frontend
 	url = git@github.com:Tarushfx/foodlamp-frontend.git
 	branch = main
