@@ -1,6 +1,6 @@
 # FoodLamp
 
-> **_The Utimate FoodGram minus Social media_**
+> **_The Ultimate FoodGram minus Social media_**
 
 Have you frequently found yourself scrolling through Instagram liking food pictures left n right. Only to find yourself stuck wishing to find the recipe?  
 ...And you are health conscious?  
