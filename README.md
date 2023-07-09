@@ -25,8 +25,23 @@ Technologies used:
 - **Posts**: Reddit API
 - **Diet**: Edamam API
 
-## Link to the Site [FoodLamp](https://foodlamp.netlify.app/)
+## Link to the Site [FoodLamp]()
+
+\*\* The Site is down due to pricing issues of Heroku
 
 ### Frontend hosted on Netlify
 
 ### Backend Hosted on Heroku
+
+Snapshots:
+
+Landing Page:
+<img src="Snapshots/3.png">
+
+Graphs:
+<img src="Snapshots/1.png">
+
+Recipes:
+<img src="Snapshots/2.png">
+
+Happy Foodlamping!!
